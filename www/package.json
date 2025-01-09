@@ -1,0 +1,12 @@
+{
+    "name": "Niko meets everything",
+    "main": "index.html",
+    "js-flags": "--expose-gc",
+    "window": {
+        "title": "Нико и Меттатон: Не пойми какой лимузин",
+        "toolbar": false,
+        "width": 816,
+        "height": 624,
+        "icon": "icon/item_red_photo.png"
+    }
+}
